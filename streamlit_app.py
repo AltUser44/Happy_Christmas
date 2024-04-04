@@ -29,7 +29,7 @@ def get_person_name():
 
 
 # Page configuration
-st.set_page_config(page_title="Happy Holidays", page_icon="🎄")
+st.set_page_config(page_title="Merry Christmas", page_icon="🎄")
 
 # Run snowfall animation
 run_snow_animation()
