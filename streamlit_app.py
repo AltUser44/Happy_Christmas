@@ -40,7 +40,7 @@ with open(CSS_FILE) as f:
 
 # Display header with personalized name
 PERSON_NAME = get_person_name()
-st.header(f"Happy Holidays, {PERSON_NAME}! 🎄", anchor=False)
+st.header(f"Merry Christmas, {PERSON_NAME}! 🎄", anchor=False)
 
 # Display the Lottie animation
 lottie_animation = load_lottie_animation(LOTTIE_ANIMATION)
