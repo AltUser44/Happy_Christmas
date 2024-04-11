@@ -1,3 +1,5 @@
+![Screenshot 2024-04-11 050136](https://github.com/AltUser44/Merry_Christmas/assets/138399028/15ea4bcc-15a8-4702-927e-04b027003025)
+
 This is a web application written in Python and powered by Streamlit.
 
 It features a snowfall effect using emoji snowflakes, personalizes the greeting by fetching the user's name from 
