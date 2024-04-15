@@ -1,4 +1,5 @@
-![Screenshot 2024-04-11 050136](https://github.com/AltUser44/Merry_Christmas/assets/138399028/15ea4bcc-15a8-4702-927e-04b027003025)
+![Screenshot 2024-04-14 214853](https://github.com/AltUser44/Merry_Christmas/assets/138399028/2d15f6f9-d311-4982-9919-9ee6ae21ffa3)
+
 
 This is a web application written in Python and powered by Streamlit.
 
